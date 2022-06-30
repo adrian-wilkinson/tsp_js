@@ -22,3 +22,7 @@ nullNext.js
 nullRow.js
 test1.js
 
+THEN
+
+run   Main.js
+
